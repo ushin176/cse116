@@ -1,0 +1,21 @@
+{
+  "playerParty": {
+    "characters":
+      [
+        {"name":"RedPlayer2", "hp":50, "maxHP":70, "battleOptions": 2},
+        {"name":"RedPlayer3", "hp":50, "maxHP":70, "battleOptions": 3},
+        {"name":"RedPlayer2", "hp":50, "maxHP":70, "battleOptions": 2},
+        {"name":"RedPlayer3", "hp":50, "maxHP":70, "battleOptions": 3}
+      ]
+  },
+
+  "enemyParty": {
+    "characters":
+    [
+      {"name":"RedPlayer2", "hp":50, "maxHP":70, "battleOptions": 2},
+      {"name":"RedPlayer3", "hp":50, "maxHP":70, "battleOptions": 3},
+      {"name":"RedPlayer2", "hp":50, "maxHP":70, "battleOptions": 2},
+      {"name":"RedPlayer3", "hp":50, "maxHP":70, "battleOptions": 3}
+    ]
+  }
+}
